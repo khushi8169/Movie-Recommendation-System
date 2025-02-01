@@ -1,4 +1,4 @@
-```markdown
+
 # Movie Recommendation System
 
 Recommender systems are essential for websites or online stores with millions of items, helping users find what they're looking for by narrowing down their choices. These systems are widely used by companies like Netflix and Amazon to suggest content tailored to individual users.
@@ -25,7 +25,7 @@ To get started, you'll need to install the necessary libraries:
 
 ```bash
 pip install scikit-surprise
-```
+
 
 Import the necessary libraries:
 
